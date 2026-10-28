@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "LooksMax AI",
+    "slug": "looksmax-ai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "LooksMax AI needs access to your photos to analyse a face you choose."
+        }
+      ]
+    ]
+  }
+}
