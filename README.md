@@ -50,3 +50,29 @@ EXPO_PUBLIC_API_URL=http://<your-computer's-LAN-IP>:8000 npx expo start
 ## Documentation
 
 All documentation lives in [`1—Documentation/`](1—Documentation/README.md).
+
+<!-- project-metrics:start -->
+## Project Metrics
+
+[![Stars](https://img.shields.io/github/stars/syedjafri06193/Looksmax-AI-Analysis-Engine-proj?style=flat-square)](https://github.com/syedjafri06193/Looksmax-AI-Analysis-Engine-proj/stargazers) [![Forks](https://img.shields.io/github/forks/syedjafri06193/Looksmax-AI-Analysis-Engine-proj?style=flat-square)](https://github.com/syedjafri06193/Looksmax-AI-Analysis-Engine-proj/forks) [![Open issues](https://img.shields.io/github/issues/syedjafri06193/Looksmax-AI-Analysis-Engine-proj?style=flat-square)](https://github.com/syedjafri06193/Looksmax-AI-Analysis-Engine-proj/issues) [![Last commit](https://img.shields.io/github/last-commit/syedjafri06193/Looksmax-AI-Analysis-Engine-proj/improvements?style=flat-square)](https://github.com/syedjafri06193/Looksmax-AI-Analysis-Engine-proj/commits/improvements) [![Commits](https://img.shields.io/github/commit-activity/t/syedjafri06193/Looksmax-AI-Analysis-Engine-proj?style=flat-square)](https://github.com/syedjafri06193/Looksmax-AI-Analysis-Engine-proj/commits/improvements) [![Top language](https://img.shields.io/github/languages/top/syedjafri06193/Looksmax-AI-Analysis-Engine-proj?style=flat-square)](https://github.com/syedjafri06193/Looksmax-AI-Analysis-Engine-proj) [![Repo size](https://img.shields.io/github/repo-size/syedjafri06193/Looksmax-AI-Analysis-Engine-proj?style=flat-square)](https://github.com/syedjafri06193/Looksmax-AI-Analysis-Engine-proj)
+
+### Code
+
+| Metric | Value |
+|---|---|
+| Lines of code | 205 |
+| Source files | 5 |
+| Tracked files | 21 |
+| Documentation | 5 Markdown files (784 words) |
+| Commits | 6 |
+| Contributors | 1 |
+| Active | 2026-01-19 → 2026-10-28 |
+
+| Language | Lines | Share |
+|---|---:|---:|
+| Python | 142 | 69.3% |
+| TSX | 60 | 29.3% |
+| JavaScript | 3 | 1.5% |
+
+<sub>Code stats as of 2026-10-28, counted with pygount (comments and blank lines excluded). Badges update live.</sub>
+<!-- project-metrics:end -->
